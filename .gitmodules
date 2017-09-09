@@ -1,0 +1,3 @@
+[submodule "Documents/data_science/blog/plugins/ipynb"]
+	path = Documents/data_science/blog/plugins/ipynb
+	url = git://github.com/danielfrg/pelican-ipynb.git
